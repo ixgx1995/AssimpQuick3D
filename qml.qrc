@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Shape.qml</file>
+    </qresource>
+</RCC>
